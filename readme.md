@@ -2,7 +2,7 @@
 
 ## Introdução 
 
-Este código em python na versão 3.12, demonstra tratamento de erros e também laço de repetição.     
+Este código em python na versão 3.12, demonstra tratamento de erros e também laço de repetição...     
 
 ## Propiedade 
 
